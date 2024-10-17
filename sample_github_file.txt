@@ -1,0 +1,6 @@
+Hello, GitHub!
+
+This is a sample text file created by ChatGPT for testing purposes.
+Feel free to edit, modify, or delete the content as needed.
+
+Best wishes on your GitHub journey!
